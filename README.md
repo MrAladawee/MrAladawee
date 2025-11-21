@@ -86,4 +86,4 @@
 * **QA Engineer (Test Engineer)**
 * **QC Engineer (Test Engineer)**
 
-* Concact: andrey_andrey99844@mail.ru
+* Contact: andrey_andrey99844@mail.ru
