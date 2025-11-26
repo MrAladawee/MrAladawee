@@ -1,6 +1,5 @@
 # 👋 Привет! Я — перспективный Data Scientist & QA-Engineer (Test Engineer)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAladawee&show_icons=true&hide_border=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAladawee&layout=compact&hide_border=true&theme=onedark)
 
 ---
