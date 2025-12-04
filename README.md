@@ -81,8 +81,10 @@
 
 Ищу работу на позициях:
 * **Data Scientist**
-* **Machine Learning Engineer**
+* **ML/DL Engineer**
 * **QA Engineer (Test Engineer)**
 * **QC Engineer (Test Engineer)**
+* **Аналитик**
+* **Python** разработчик
 
 * Contact: andrey_andrey99844@mail.ru
